@@ -1,5 +1,5 @@
-# MMEDownscaling based on CMIP5 ETCCDI dataset
-----------------------------------------------
+# MME Statistical Downscaling based on CMIP5 ETCCDI dataset
+-----------------------------------------------------------
 
 Conduct a bias-correction technique to accomplish my undergraduate thesis project. This project aims to provide reliable and high-resolution extreme climate indices information at the local/regional level.
 
